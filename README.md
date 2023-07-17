@@ -1,2 +1,2 @@
 # Dronekit_software
-Hava araçları için otonom uçuş ve kontrol koldarı
+Autonomous flight and control codes for aircraft
